@@ -66,4 +66,7 @@ Obrigado por visitar meu perfil! 🚀
 
 ⭐ Fique à vontade para acompanhar minha evolução!
 
-[![Glauber stats](https://github-readme-stats.vercel.app/api?username=Gl4u8erF)](https://github.com/anuraghazra/github-readme-stats)
+[![Glauber Stats](https://github-stats-extended.vercel.app/api?username=Gl4u8erF&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/Gl4u8erF)
+<br>
+<br>
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Gl4u8erF&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gl4u8erF)
