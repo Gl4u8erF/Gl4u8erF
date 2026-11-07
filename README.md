@@ -65,3 +65,5 @@ Acredito que cada linha de código representa uma oportunidade de aprendizado.
 Obrigado por visitar meu perfil! 🚀
 
 ⭐ Fique à vontade para acompanhar minha evolução!
+
+[![Glauber stats](https://github-readme-stats.vercel.app/api?username=Gl4u8erF)](https://github.com/anuraghazra/github-readme-stats)
